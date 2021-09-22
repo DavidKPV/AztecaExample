@@ -1,0 +1,25 @@
+<resources>
+    <string name="cardSentence">Tus datos de tarjeta por ningún motivo serán almacenados o inspeccionados, simplemente serán utilizados para realizar la transacción en cuestión</string>
+    <string name="inputCardNumber">Número de Tarjeta</string>
+    <string name="inputCardName">Nombre del titular de la tarjeta</string>
+    <string name="inputDueMonth">Mes</string>
+    <string name="inputDueYear">Año</string>
+    <string name="cardCvv">CVV</string>
+    <string name="cardCP">Código Postal</string>
+    <string name="legend">Las operaciones de compra en línea están respaldadas por Banco Azteca</string>
+    <string name="btnContinue">Continuar</string>
+    <string name="cardForm">Pago con tarjeta de crédito o débito</string>
+    <string name="cardCheck">Acepto los términos y condiciones -Link-</string>
+    <string name="button_card">Pagar</string>
+
+
+    <!-- Errores -->
+    <string name="error_tilCardNumber">Tarjeta no reconocida</string>
+
+    <!-- SIMBOLOS -->
+    <string name="slash">/</string>
+
+    <!-- Content Descripcion -->
+    <string name="img_ok">ok</string>
+    <string name="img_card">card</string>
+</resources>
